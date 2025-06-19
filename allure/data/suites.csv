@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"测试用户登录接口","592","test_user_login","testcase","Thu Jun 19 14:54:26 CST 2025","passed","Thu Jun 19 14:54:27 CST 2025","TestAuthentication","test_login","",""
+"测试获取用户信息接口","464","test_get_user_info","testcase","Thu Jun 19 14:54:27 CST 2025","passed","Thu Jun 19 14:54:27 CST 2025","TestAuthentication","test_login","",""
