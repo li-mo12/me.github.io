@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"69b492d519be445211bfae036cf909ef","name":"认证接口","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
+{"total":2,"items":[{"uid":"69b492d519be445211bfae036cf909ef","name":"认证接口","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"f24b35d20b1265a866de1c3ba4005843","name":"合同管理","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
