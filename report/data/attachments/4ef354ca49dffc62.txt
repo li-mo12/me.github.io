@@ -1,0 +1,7 @@
+INFO     接口测试:test_demo.py:22 ========开始执行用例========
+INFO     接口测试:test_demo.py:23 None
+INFO     接口测试:test_demo.py:40 ========新建合同接口========
+INFO     接口测试:test_demo.py:273 请求接口 ：https://szhgg.ifuhua.com.cn/api/kcservice-server/contract/saveOrUpdate
+INFO     接口测试:test_demo.py:274 接口状态码 ：200
+INFO     接口测试:test_demo.py:275 接口响应时长（秒） ：1.424749
+INFO     接口测试:test_demo.py:276 返回结果 ：{'code': 1, 'msg': '操作成功！', 'exception': '', 'data': '1938157960544833537', 'reserveData': '1938157962652196865', 'requestId': 'e44b21be935a46079e76e98403c8bdca', 'success': True, 'successData': True}
