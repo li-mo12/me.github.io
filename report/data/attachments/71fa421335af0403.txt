@@ -1,0 +1,8 @@
+<class 'dict'>
+{'code': 1, 'msg': '登录成功！', 'exception': '', 'data': {'domain': '.ifuhua.com.cn', 'expire': 28799, 'name': 'login_boshiyunconsole_ticket', 'value': 'b11b4687-df57-49cb-a32a-39ac81db87d1'}, 'reserveData': None, 'requestId': '2fab285817bf4ca3befa39d846dfb3ed', 'success': True, 'successData': True}
+<class 'dict'>
+{'code': 1, 'msg': '登录成功！', 'exception': '', 'data': {'domain': '.ifuhua.com.cn', 'expire': 28799, 'name': 'login_boshiyunconsole_ticket', 'value': '82361c2d-1cf6-4a7a-acb2-84b83fa0e6e2'}, 'reserveData': None, 'requestId': '548c410756624b4aa268d96008900b47', 'success': True, 'successData': True}
+<class 'dict'>
+{'code': 1, 'msg': '登录成功！', 'exception': '', 'data': {'domain': '.ifuhua.com.cn', 'expire': 28799, 'name': 'login_boshiyunconsole_ticket', 'value': '582fb25e-c9cc-4cb7-9a5f-5055eb04e4e3'}, 'reserveData': None, 'requestId': '818e91df8e0042b69575a133e9167e63', 'success': True, 'successData': True}
+<class 'dict'>
+{'code': 1, 'msg': '登录成功！', 'exception': '', 'data': {'domain': '.ifuhua.com.cn', 'expire': 28799, 'name': 'login_boshiyunconsole_ticket', 'value': '5e72201c-3dcb-4051-9727-7ba932a65122'}, 'reserveData': None, 'requestId': 'c22330005fe14390bef4200522cec9d8', 'success': True, 'successData': True}

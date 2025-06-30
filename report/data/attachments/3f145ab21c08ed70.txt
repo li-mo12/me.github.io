@@ -1,0 +1,7 @@
+INFO     接口测试:test_demo.py:558 ========合同归档设置========
+INFO     接口测试:test_demo.py:561 上传的文件 ：{'code': 1, 'msg': '操作成功！', 'exception': '', 'data': {'fileName': 'archive_files.pptx', 'fileUrl': 'https://doctor-filemanager.oss-cn-beijing.aliyuncs.com/common/archive_files_v6355z.pptx', 'size': 34501549}, 'reserveData': None, 'requestId': '904ea21b80cd4ee3a5e7f56564036531', 'success': True, 'successData': True}
+INFO     接口测试:test_demo.py:586 请求参数 ：{'id': '1939583488803917825', 'finishCode': 'HT-NO5363251241', 'deadline': '2025-06-01', 'deadlineEnd': '2025-06-30', 'effectiveDate': '2025-06-30', 'fileList': [{'fileName': 'archive_files.pptx', 'fileUrl': 'https://doctor-filemanager.oss-cn-beijing.aliyuncs.com/common/archive_files_v6355z.pptx', 'size': 34501549}]}
+INFO     接口测试:test_demo.py:592 请求接口 ：https://szhgg.ifuhua.com.cn/api/kcservice-server/contract/setArchived
+INFO     接口测试:test_demo.py:593 接口状态码 ：200
+INFO     接口测试:test_demo.py:594 接口响应时长（秒） ：2.351807
+INFO     接口测试:test_demo.py:595 返回结果 ：{'code': 1, 'msg': '操作成功！', 'exception': '', 'data': None, 'reserveData': None, 'requestId': '55cbaa26884d437c8ce266a754dcac0e', 'success': True, 'successData': False}

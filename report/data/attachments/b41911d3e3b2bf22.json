@@ -1,0 +1,9 @@
+{
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "X-Requested-With": "XMLHttpRequest",
+    "Cookie": "login_boshiyunconsole_ticket=a1b24a2a-482e-4cf2-b55c-2092875987dc"
+}

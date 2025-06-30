@@ -1,0 +1,5 @@
+INFO     root:test_login.py:16 =======开始测试========
+INFO     root:test_login.py:52 请求接口 ：https://szhgg.ifuhua.com.cn/api/ram/auth/oauth
+INFO     root:test_login.py:53 接口状态码 ：200
+INFO     root:test_login.py:54 接口响应时长（秒） ：1.323822
+INFO     root:test_login.py:55 返回结果 ：{'code': 1, 'msg': '登录成功！', 'exception': '', 'data': {'domain': '.ifuhua.com.cn', 'expire': 28799, 'name': 'login_boshiyunconsole_ticket', 'value': 'a1b24a2a-482e-4cf2-b55c-2092875987dc'}, 'reserveData': None, 'requestId': '022671dfaa1a450d9438a0d1bf34a06a', 'success': True, 'successData': True}
